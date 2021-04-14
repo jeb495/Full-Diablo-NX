@@ -3,8 +3,7 @@
 ## Installation
 
 1. Download and unzip [FullDiabloNX.zip](https://github.com/jeb495/Full-Diablo-NX/releases/tag/v1.0.0).
-2. Put `devilutionx.nro` and `CharisSILB.ttf` in into `/switch/devilutionx`
-
+2. Put the extracted folder into the `/switch` directory on your SD card
 
 ## Usage
 
