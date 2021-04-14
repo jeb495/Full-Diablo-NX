@@ -2,9 +2,9 @@
 
 ## Installation
 
-1. Download and unzip [devilutionx-switch.zip](https://github.com/diasurgical/devilutionX/releases/latest/download/devilutionx-switch.zip).
+1. Download and unzip [FullDiabloNX.zip](https://github.com/jeb495/Full-Diablo-NX/releases/tag/v1.0.0).
 2. Put `devilutionx.nro` and `CharisSILB.ttf` in into `/switch/devilutionx`
-3. Copy `diabdat.mpq` from your CD (or GoG install folder) to `/switch/devilutionx`.
+
 
 ## Usage
 
@@ -40,7 +40,3 @@ Launch `devilutionx.nro`. (Do not use album to launch; see the note below.)
 - Dual finger drag: drag'n'drop (left mouse button is held down)
 - Three finger drag: drag'n'drop (right mouse button is held down)
 
-## Resources
-
-* Discord: https://discord.gg/aQBQdDe
-* GitHub: https://github.com/diasurgical/devilutionX
