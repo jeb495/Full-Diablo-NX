@@ -1,4 +1,4 @@
-# DevilutionX (Diablo 1) for Nintendo Switch
+# Devilution Port (Diablo 1) for Nintendo Switch
 
 ## Installation
 
