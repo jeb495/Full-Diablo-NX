@@ -1,7 +1,7 @@
 # Devilution Port (Diablo 1) for Nintendo Switch
 
 ## Github repo notes
-The github repo itself does not contain all of the files neccesary, some of them are simply too big. You must download from the releases tab on this page (https://github.com/jeb495/Full-Diablo-NX/releases/tag/v1.0.0) to get all of the files neccecary. 
+The main repo page itself does not contain all of the files neccesary, some of them are simply too big. You must download from the releases tab on this page (https://github.com/jeb495/Full-Diablo-NX/releases/tag/v1.0.0) to get all of the files neccecary. 
 
 ## Installation
 
