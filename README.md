@@ -1,4 +1,11 @@
-# Devilution Port (Diablo 1) for Nintendo Switch
+# Devilution Port (Open Source Diablo 1 port) for Nintendo Switch
+
+## Link to original repo:
+https://github.com/diasurgical/devilution
+
+## Disclaimer
+I would like to clear a few things up. This is a packaged up version of the official Devilution project with all of the neccecary files included. I have made this repo
+to make the lives of some easier by reducing the amount of setup to get this all working. I condone piracy of media belonging to large greedy corporations. And as far as im concerned, Blizzard/Activision devs will not be affected by this, nor will Blizzard themselves.  
 
 ## Github repo notes
 The main repo page itself does not contain all of the files neccesary, some of them are simply too big. You must download from the releases tab on this page (https://github.com/jeb495/Full-Diablo-NX/releases/tag/v1.0.0) to get all of the files neccecary. 
